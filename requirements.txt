@@ -1,0 +1,7 @@
+# CSCI262 System Security - Password Detection System
+# Standard Library dependencies (hashlib, math, argparse, sys) are included with Python 3.8+
+
+# Optional dependencies to run the Jupyter Notebook (main.ipynb)
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
